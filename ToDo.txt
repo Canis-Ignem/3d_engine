@@ -1,0 +1,10 @@
+Escena:
+Draw() global
+
+Camara:
+
+Implementar trasparencia numero 12
+Linea 129 camera.c
+trasparencia 19
+Matriz de cambiom de sistema de referencia a la Camara 3x3 
+linea 156 camera.c 
